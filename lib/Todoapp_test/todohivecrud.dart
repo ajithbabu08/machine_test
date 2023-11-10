@@ -79,7 +79,6 @@ class _TodoappHomeState extends State<TodoappHome> {
       mycontent_controller.text=existingTask['taskcont'];
     }
 
-    //itemkey similar to id in sqflite
     showModalBottomSheet(
         isScrollControlled: true,
         context: context, builder: (context){

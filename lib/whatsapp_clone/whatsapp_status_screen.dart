@@ -12,17 +12,20 @@ class _whatsApp_StatusState extends State<whatsApp_Status> {
 
   var statususer=[
     "Arun",
-    "Kasi"
+    "Kasi",
+    "Akash"
   ];
 
 
   var statustime=[
     "7.40 AM",
-    "7.10 AM"
+    "7.10 AM",
+    "6.50 AM"
   ];
   var statusimg=[
     "https://www.itl.cat/pngfile/big/38-380429_best-whatsapp-dp-images-friends-icon-group-whatsapp.jpg",
-    "https://library.sportingnews.com/styles/crop_style_16_9_mobile_2x/s3/2022-12/Lionel%20Messi%20Argentina%20World%20Cup%20trophy%20121822.jpg?h=920929c4&itok=BJUqskI7"
+    "https://library.sportingnews.com/styles/crop_style_16_9_mobile_2x/s3/2022-12/Lionel%20Messi%20Argentina%20World%20Cup%20trophy%20121822.jpg?h=920929c4&itok=BJUqskI7",
+    "https://www.dailyexcelsior.com/wp-content/uploads/2019/07/Dhoni-1.jpg"
   ];
 
 
